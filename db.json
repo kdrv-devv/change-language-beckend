@@ -1,0 +1,156 @@
+[
+  {
+    "products": [
+      {
+        "id": 1,
+        "img": "https://i.pinimg.com/736x/91/c8/6d/91c86d69f719d9e2909240a3b16e9602.jpg",
+        "title": {
+          "eng": "Bread",
+          "rus": "Хлеб",
+          "uzb": "Non"
+        },
+        "description": {
+          "eng": "A staple food made from wheat or other grains.",
+          "rus": "Основной продукт из пшеницы или других зерновых.",
+          "uzb": "Bug'doy yoki boshqa donlardan tayyorlangan asosiy oziq-ovqat."
+        },
+        "price": 5000
+      },
+      {
+        "id": 2,
+        "img": "https://i.pinimg.com/236x/99/c2/f1/99c2f14d9911cb512baa84d9bd2cdead.jpg",
+        "title": {
+          "eng": "Rice",
+          "rus": "Рис",
+          "uzb": "Guruch"
+        },
+        "description": {
+          "eng": "A versatile grain used in many dishes.",
+          "rus": "Универсальная крупа, используемая во многих блюдах.",
+          "uzb": "Ko'p taomlarda ishlatiladigan zarur don."
+        },
+        "price": 15000
+      },
+      {
+        "id": 3,
+        "img": "https://i.pinimg.com/236x/b9/02/c7/b902c7e21fbb0f8d04857ea2cbd06fd7.jpg",
+        "title": {
+          "eng": "Milk",
+          "rus": "Молоко",
+          "uzb": "Sut"
+        },
+        "description": {
+          "eng": "A nutritious drink rich in calcium.",
+          "rus": "Питательный напиток, богатый кальцием.",
+          "uzb": "Kalsiyga boy foydali ichimlik."
+        },
+        "price": 9000
+      },
+      {
+        "id": 4,
+        "img": "https://i.pinimg.com/236x/fd/13/69/fd13698867e26a123d1bb5150436306f.jpg",
+        "title": {
+          "eng": "Meat",
+          "rus": "Мясо",
+          "uzb": "Go'sht"
+        },
+        "description": {
+          "eng": "A high-protein food for various dishes.",
+          "rus": "Продукт с высоким содержанием белка для различных блюд.",
+          "uzb": "Turli xil taomlar uchun yuqori proteinli mahsulot."
+        },
+        "price": 80000
+      },
+      {
+        "id": 5,
+        "img": "https://i.pinimg.com/236x/da/b4/31/dab4311b3f0077f23b31fda6472d6634.jpg",
+        "title": {
+          "eng": "Eggs",
+          "rus": "Яйца",
+          "uzb": "Tuxum"
+        },
+        "description": {
+          "eng": "A healthy option for breakfast and recipes.",
+          "rus": "Полезный выбор для завтраков и рецептов.",
+          "uzb": "Nonushta va taomlar uchun foydali tanlov."
+        },
+        "price": 1300
+      },
+      {
+        "id": 6,
+        "img": "https://i.pinimg.com/236x/59/4c/20/594c206b6c78382ab32c05b829b86dc3.jpg",
+        "title": {
+          "eng": "Cooking Oil",
+          "rus": "Кулинарное масло",
+          "uzb": "Yog'"
+        },
+        "description": {
+          "eng": "Used in frying, baking, and cooking.",
+          "rus": "Используется для жарки, выпечки и приготовления пищи.",
+          "uzb": "Qovurish, pishirish va taom tayyorlashda ishlatiladi."
+        },
+        "price": 22000
+      },
+      {
+        "id": 7,
+        "img": "https://i.pinimg.com/236x/1f/36/91/1f36913da5015eb8ca9a4312c926f591.jpg",
+        "title": {
+          "eng": "Potatoes",
+          "rus": "Картофель",
+          "uzb": "Kartoshka"
+        },
+        "description": {
+          "eng": "A versatile vegetable used in many cuisines.",
+          "rus": "Универсальный овощ, используемый в различных кухнях.",
+          "uzb": "Ko'p xil taomlarda ishlatiladigan sabzavot."
+        },
+        "price": 6000
+      },
+      {
+        "id": 8,
+        "img": "https://i.pinimg.com/236x/b6/c7/5d/b6c75de307bcf0075896a0c03a7a20f4.jpg",
+        "title": {
+          "eng": "Carrots",
+          "rus": "Морковь",
+          "uzb": "Sabzi"
+        },
+        "description": {
+          "eng": "A root vegetable rich in vitamins.",
+          "rus": "Корнеплод, богатый витаминами.",
+          "uzb": "Vitaminlarga boy sabzavot."
+        },
+        "price": 4000
+      },
+      {
+        "id": 9,
+        "img": "https://i.pinimg.com/236x/23/61/c9/2361c9b0105aa88901658a0c3698ea2e.jpg",
+        "title": {
+          "eng": "Apples",
+          "rus": "Яблоки",
+          "uzb": "Olma"
+        },
+        "description": {
+          "eng": "A natural sweet and healthy snack.",
+          "rus": "Естественно сладкий и полезный перекус.",
+          "uzb": "Tabiiy shirin va foydali gazak."
+        },
+        "price": 12000
+      },
+      {
+        "id": 10,
+        "img": "https://i.pinimg.com/236x/bb/e0/e3/bbe0e3e2e43f86c3564d4b7322cdc537.jpg",
+        "title": {
+          "eng": "Bananas",
+          "rus": "Бананы",
+          "uzb": "Banan"
+        },
+        "description": {
+          "eng": "A rich source of energy and nutrients.",
+          "rus": "Богатый источник энергии и питательных веществ.",
+          "uzb": "Energiya va oziqa moddalariga boy meva."
+        },
+        "price": 18000
+      }
+    ]
+  }
+]
